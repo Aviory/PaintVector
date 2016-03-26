@@ -1,0 +1,15 @@
+figures:
+	- x: 139
+	  y: 95
+	  w: 91
+	  h: 79
+	  c: ControlText
+	  lw: 1
+	  type: Rect
+	- x: 333
+	  y: 119
+	  w: 116
+	  h: 132
+	  c: ControlText
+	  lw: 1
+	  type: Rect

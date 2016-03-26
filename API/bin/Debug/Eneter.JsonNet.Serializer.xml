@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Eneter.JsonNet.Serializer</name>
+    </assembly>
+    <members>
+        <member name="T:Eneter.JsonNet.JsonNetSerializer">
+            <summary>
+            EneterJsonNetSerializer is a serializer for Eneter Messaging Framework based on popular Json.NET serializer.
+            </summary>
+            <remarks>
+            This serializer is intended to be used with Eneter Messaging Framework to serialize/deserialize messages.
+            The implementation of the serializer is based on Json.NET serializer created by James Newton-King.
+            http://www.newtonsoft.com/json
+            </remarks>
+        </member>
+        <member name="M:Eneter.JsonNet.JsonNetSerializer.#ctor">
+            <summary>
+            Constructs the serializer.
+            </summary>
+        </member>
+        <member name="M:Eneter.JsonNet.JsonNetSerializer.#ctor(Newtonsoft.Json.JsonSerializerSettings)">
+            <summary>
+            Constructs the serializer.
+            </summary>
+            <param name="jsonParameters">JSON parameters.</param>
+        </member>
+        <member name="M:Eneter.JsonNet.JsonNetSerializer.Deserialize``1(System.Object)">
+            <summary>
+            Deserializes data.
+            </summary>
+            <typeparam name="T">Type of the object which shall be deserialized.</typeparam>
+            <param name="serializedData">JSON serialized string which shall be deserialized.</param>
+            <returns>instance of deserialized object</returns>
+        </member>
+        <member name="M:Eneter.JsonNet.JsonNetSerializer.Serialize``1(``0)">
+            <summary>
+            Serializes data.
+            </summary>
+            <typeparam name="T">Type of the objec which shall be serialized.</typeparam>
+            <param name="dataToSerialize">instance of the object which shall be serialized.</param>
+            <returns>string containing JSON serialization</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,40 @@
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\bin\Debug\Tests.dll
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\bin\Debug\Tests.pdb
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\bin\Debug\API.dll
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\bin\Debug\nunit.framework.dll
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\bin\Debug\API.pdb
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\bin\Debug\nunit.framework.xml
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\obj\Debug\Tests.dll
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\Tests\obj\Debug\Tests.pdb
+D:\CSharp\ORTProjects\PaintVector\Tests\bin\Debug\Tests.dll
+D:\CSharp\ORTProjects\PaintVector\Tests\bin\Debug\Tests.pdb
+D:\CSharp\ORTProjects\PaintVector\Tests\bin\Debug\API.dll
+D:\CSharp\ORTProjects\PaintVector\Tests\bin\Debug\nunit.framework.dll
+D:\CSharp\ORTProjects\PaintVector\Tests\bin\Debug\API.pdb
+D:\CSharp\ORTProjects\PaintVector\Tests\bin\Debug\nunit.framework.xml
+D:\CSharp\ORTProjects\PaintVector\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\CSharp\ORTProjects\PaintVector\Tests\obj\Debug\Tests.dll
+D:\CSharp\ORTProjects\PaintVector\Tests\obj\Debug\Tests.pdb
+D:\PaintVector\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\PaintVector\Tests\bin\Debug\Tests.dll
+D:\PaintVector\Tests\bin\Debug\Tests.pdb
+D:\PaintVector\Tests\bin\Debug\API.dll
+D:\PaintVector\Tests\bin\Debug\CsvHelper.dll
+D:\PaintVector\Tests\bin\Debug\Eneter.JsonNet.Serializer.dll
+D:\PaintVector\Tests\bin\Debug\Eneter.Messaging.Framework.dll
+D:\PaintVector\Tests\bin\Debug\Newtonsoft.Json.dll
+D:\PaintVector\Tests\bin\Debug\nunit.framework.dll
+D:\PaintVector\Tests\bin\Debug\YamlSerializer.dll
+D:\PaintVector\Tests\bin\Debug\API.pdb
+D:\PaintVector\Tests\bin\Debug\CsvHelper.pdb
+D:\PaintVector\Tests\bin\Debug\CsvHelper.xml
+D:\PaintVector\Tests\bin\Debug\Eneter.JsonNet.Serializer.pdb
+D:\PaintVector\Tests\bin\Debug\Eneter.JsonNet.Serializer.xml
+D:\PaintVector\Tests\bin\Debug\Eneter.Messaging.Framework.pdb
+D:\PaintVector\Tests\bin\Debug\Eneter.Messaging.Framework.xml
+D:\PaintVector\Tests\bin\Debug\Newtonsoft.Json.xml
+D:\PaintVector\Tests\bin\Debug\nunit.framework.xml
+D:\PaintVector\Tests\bin\Debug\YamlSerializer.xml
+D:\PaintVector\Tests\obj\Debug\Tests.dll
+D:\PaintVector\Tests\obj\Debug\Tests.pdb

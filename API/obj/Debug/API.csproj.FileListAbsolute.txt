@@ -1,0 +1,64 @@
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\API\bin\Debug\API.dll
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\API\bin\Debug\API.pdb
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\API\obj\Debug\API.dll
+c:\users\stukaloav\documents\visual studio 2015\Projects\PaintVector\API\obj\Debug\API.pdb
+D:\CSharp\ORTProjects\PaintVector\API\bin\Debug\API.dll
+D:\CSharp\ORTProjects\PaintVector\API\bin\Debug\API.pdb
+D:\CSharp\ORTProjects\PaintVector\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\CSharp\ORTProjects\PaintVector\API\obj\Debug\API.dll
+D:\CSharp\ORTProjects\PaintVector\API\obj\Debug\API.pdb
+D:\PaintVector\API\bin\Debug\API.dll
+D:\PaintVector\API\bin\Debug\API.pdb
+D:\PaintVector\API\obj\Debug\API.dll
+D:\PaintVector\API\obj\Debug\API.pdb
+D:\PaintVector\API\bin\Debug\CsvHelper.dll
+D:\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.dll
+D:\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.dll
+D:\PaintVector\API\bin\Debug\Newtonsoft.Json.dll
+D:\PaintVector\API\bin\Debug\YamlSerializer.dll
+D:\PaintVector\API\bin\Debug\CsvHelper.pdb
+D:\PaintVector\API\bin\Debug\CsvHelper.xml
+D:\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.pdb
+D:\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.xml
+D:\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.pdb
+D:\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.xml
+D:\PaintVector\API\bin\Debug\Newtonsoft.Json.xml
+D:\PaintVector\API\bin\Debug\YamlSerializer.xml
+D:\PaintVector\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\API.dll
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\API.pdb
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\CsvHelper.dll
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.dll
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.dll
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\YamlSerializer.dll
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\CsvHelper.pdb
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\CsvHelper.xml
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.pdb
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.xml
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.pdb
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.xml
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\PaintVector\API\bin\Debug\YamlSerializer.xml
+C:\Users\user\Desktop\PaintVector\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PaintVector\API\obj\Debug\API.dll
+C:\Users\user\Desktop\PaintVector\API\obj\Debug\API.pdb
+C:\vel\PaintVector\API\bin\Debug\API.dll
+C:\vel\PaintVector\API\bin\Debug\API.pdb
+C:\vel\PaintVector\API\bin\Debug\CsvHelper.dll
+C:\vel\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.dll
+C:\vel\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.dll
+C:\vel\PaintVector\API\bin\Debug\Newtonsoft.Json.dll
+C:\vel\PaintVector\API\bin\Debug\YamlSerializer.dll
+C:\vel\PaintVector\API\bin\Debug\CsvHelper.pdb
+C:\vel\PaintVector\API\bin\Debug\CsvHelper.xml
+C:\vel\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.pdb
+C:\vel\PaintVector\API\bin\Debug\Eneter.JsonNet.Serializer.xml
+C:\vel\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.pdb
+C:\vel\PaintVector\API\bin\Debug\Eneter.Messaging.Framework.xml
+C:\vel\PaintVector\API\bin\Debug\Newtonsoft.Json.xml
+C:\vel\PaintVector\API\bin\Debug\YamlSerializer.xml
+C:\vel\PaintVector\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\vel\PaintVector\API\obj\Debug\API.dll
+C:\vel\PaintVector\API\obj\Debug\API.pdb
